@@ -1,0 +1,119 @@
+[
+  {
+    "Id": 2,
+    "Name": "Morty Smith",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 1,
+    "Name": "Rick Sanchez",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (C-137)",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 3,
+    "Name": "Summer Smith",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Female",
+    "Origin": "Earth (Replacement Dimension)",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 4,
+    "Name": "Beth Smith",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Female",
+    "Origin": "Earth (Replacement Dimension)",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 5,
+    "Name": "Jerry Smith",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (Replacement Dimension)",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 6,
+    "Name": "Abadango Cluster Princess",
+    "Status": "Alive",
+    "Species": "Alien",
+    "Gender": "Female",
+    "Origin": "Abadango",
+    "Location": "Abadango"
+  },
+  {
+    "Id": 7,
+    "Name": "Abradolf Lincler",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (Replacement Dimension)",
+    "Location": "Testicle Monster Dimension"
+  },
+  {
+    "Id": 8,
+    "Name": "Adjudicator Rick",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 9,
+    "Name": "Agency Director",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (Replacement Dimension)",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 12,
+    "Name": "Alexander",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (C-137)",
+    "Location": "Anatomy Park"
+  },
+  {
+    "Id": 10,
+    "Name": "Alan Rails",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Worldender's lair"
+  },
+  {
+    "Id": 11,
+    "Name": "Albert Einstein",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (C-137)",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 10,
+    "Name": "Alan Rails",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Worldender's lair"
+  }
+]
