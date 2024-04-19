@@ -96,24 +96,6 @@
     "Species": "Human",
     "Gender": "Male",
     "Origin": "unknown",
-    "Location": "Worldender's lair"
-  },
-  {
-    "Id": 11,
-    "Name": "Albert Einstein",
-    "Status": "Dead",
-    "Species": "Human",
-    "Gender": "Male",
-    "Origin": "Earth (C-137)",
-    "Location": "Earth (Replacement Dimension)"
-  },
-  {
-    "Id": 10,
-    "Name": "Alan Rails",
-    "Status": "Dead",
-    "Species": "Human",
-    "Gender": "Male",
-    "Origin": "unknown",
-    "Location": "Worldender's lair"
+    "Location": "Worldender' slair"
   }
 ]
