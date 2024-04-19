@@ -1,5 +1,5 @@
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RICK AND MORTY&nbsp;&nbsp;&nbsp;&nbsp;
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RICK AND MORTY&nbsp;&nbsp;&nbsp;&nbsp;
 ## INTRODUCCION
 
 Este script proporciona una manera conveniente de buscar información sobre personajes utilizando su ID o nombre a través de la API [Rick And Morty API](https://rickandmortyapi.com/). Puedes especificar uno o más IDs o nombres al ejecutar el script, e incluso solicitar una búsqueda combinada utilizando ambos parámetros.
