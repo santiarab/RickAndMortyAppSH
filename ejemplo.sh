@@ -16,18 +16,23 @@
 # echo "$updated_content" > personajes.json
 
 
-archivoCacheJson="archivoCache.json"
-character_id=$1
-json_data=$(<"$archivoCacheJson")
+# archivoCacheJson="archivoCache.json"
+# character_id=$1
+# json_data=$(<"$archivoCacheJson")
 
-patron="\"Id\": $character_id"
+# patron="\"Id\": $character_id"
 
-character_json=$(echo "$json_data" | jq ".[] | select(.Id == $character_id)")
-if [ -z "$character_json" ];then
-    echo "No lo encontro"
-else
-    echo "Lo encontro"
-fi
+# character_json=$(echo "$json_data" | jq ".[] | select(.Id == $character_id)")
+# if [ -z "$character_json" ];then
+#     echo "No lo encontro"
+# else
+#     echo "Lo encontro"
+# fi
 
-echo $character_json | jq
+# echo $character_json | jq
 # echo "$json_data" | jq ".[] | select(.Id == $character_id)"
+
+url="https://rickandmortyapi.com/api/character/?name=rick"
+response=$(curl -s "$url")
+#echo $response | jq ".results.[] | {Id: .id, Name: .name, Status: .status, Species: .species, Gender: .gender, Origin: .origin.name, Location: .location.name}"
+echo $response | jq ".results | map({Id: .id, Name: .name, Status: .status, Species: .species, Gender: .gender, Origin: .origin.name, Location: .location.name})"

@@ -1,14 +1,5 @@
 [
   {
-    "Id": 2,
-    "Name": "Morty Smith",
-    "Status": "Alive",
-    "Species": "Human",
-    "Gender": "Male",
-    "Origin": "unknown",
-    "Location": "Citadel of Ricks"
-  },
-  {
     "Id": 1,
     "Name": "Rick Sanchez",
     "Status": "Alive",
@@ -16,51 +7,6 @@
     "Gender": "Male",
     "Origin": "Earth (C-137)",
     "Location": "Citadel of Ricks"
-  },
-  {
-    "Id": 3,
-    "Name": "Summer Smith",
-    "Status": "Alive",
-    "Species": "Human",
-    "Gender": "Female",
-    "Origin": "Earth (Replacement Dimension)",
-    "Location": "Earth (Replacement Dimension)"
-  },
-  {
-    "Id": 4,
-    "Name": "Beth Smith",
-    "Status": "Alive",
-    "Species": "Human",
-    "Gender": "Female",
-    "Origin": "Earth (Replacement Dimension)",
-    "Location": "Earth (Replacement Dimension)"
-  },
-  {
-    "Id": 5,
-    "Name": "Jerry Smith",
-    "Status": "Alive",
-    "Species": "Human",
-    "Gender": "Male",
-    "Origin": "Earth (Replacement Dimension)",
-    "Location": "Earth (Replacement Dimension)"
-  },
-  {
-    "Id": 6,
-    "Name": "Abadango Cluster Princess",
-    "Status": "Alive",
-    "Species": "Alien",
-    "Gender": "Female",
-    "Origin": "Abadango",
-    "Location": "Abadango"
-  },
-  {
-    "Id": 7,
-    "Name": "Abradolf Lincler",
-    "Status": "unknown",
-    "Species": "Human",
-    "Gender": "Male",
-    "Origin": "Earth (Replacement Dimension)",
-    "Location": "Testicle Monster Dimension"
   },
   {
     "Id": 8,
@@ -72,30 +18,345 @@
     "Location": "Citadel of Ricks"
   },
   {
-    "Id": 9,
-    "Name": "Agency Director",
-    "Status": "Dead",
-    "Species": "Human",
+    "Id": 15,
+    "Name": "Alien Rick",
+    "Status": "unknown",
+    "Species": "Alien",
     "Gender": "Male",
-    "Origin": "Earth (Replacement Dimension)",
-    "Location": "Earth (Replacement Dimension)"
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
   },
   {
-    "Id": 12,
-    "Name": "Alexander",
-    "Status": "Dead",
+    "Id": 19,
+    "Name": "Antenna Rick",
+    "Status": "unknown",
     "Species": "Human",
     "Gender": "Male",
-    "Origin": "Earth (C-137)",
-    "Location": "Anatomy Park"
+    "Origin": "unknown",
+    "Location": "unknown"
   },
   {
-    "Id": 10,
-    "Name": "Alan Rails",
+    "Id": 22,
+    "Name": "Aqua Rick",
+    "Status": "unknown",
+    "Species": "Humanoid",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 48,
+    "Name": "Black Rick",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 56,
+    "Name": "Bootleg Portal Chemist Rick",
     "Status": "Dead",
     "Species": "Human",
     "Gender": "Male",
     "Origin": "unknown",
-    "Location": "Worldender' slair"
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 69,
+    "Name": "Commander Rick",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 72,
+    "Name": "Cool Rick",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (K-83)",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 74,
+    "Name": "Cop Rick",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 78,
+    "Name": "Cowboy Rick",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 82,
+    "Name": "Cronenberg Rick",
+    "Status": "unknown",
+    "Species": "Cronenberg",
+    "Gender": "Male",
+    "Origin": "Cronenberg Earth",
+    "Location": "Earth (C-137)"
+  },
+  {
+    "Id": 86,
+    "Name": "Cyclops Rick",
+    "Status": "Dead",
+    "Species": "Humanoid",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 103,
+    "Name": "Doofus Rick",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Earth (J19ζ7)",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 119,
+    "Name": "Evil Rick",
+    "Status": "Dead",
+    "Species": "Humanoid",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 135,
+    "Name": "Garment District Rick",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 164,
+    "Name": "Insurance Rick",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 165,
+    "Name": "Investigator Rick",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 187,
+    "Name": "Juggling Rick",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 215,
+    "Name": "Maximums Rickimus",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Rick's Memories"
+  },
+  {
+    "Id": 2,
+    "Name": "Morty Smith",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 14,
+    "Name": "Alien Morty",
+    "Status": "unknown",
+    "Species": "Alien",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 18,
+    "Name": "Antenna Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 21,
+    "Name": "Aqua Morty",
+    "Status": "unknown",
+    "Species": "Humanoid",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 27,
+    "Name": "Artist Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 42,
+    "Name": "Big Head Morty",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 43,
+    "Name": "Big Morty",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 44,
+    "Name": "Body Guard Morty",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 53,
+    "Name": "Blue Shirt Morty",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 61,
+    "Name": "Campaign Manager Morty",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 73,
+    "Name": "Cop Morty",
+    "Status": "Dead",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 77,
+    "Name": "Cowboy Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 83,
+    "Name": "Cronenberg Morty",
+    "Status": "unknown",
+    "Species": "Cronenberg",
+    "Gender": "Male",
+    "Origin": "Cronenberg Earth",
+    "Location": "Earth (C-137)"
+  },
+  {
+    "Id": 84,
+    "Name": "Cult Leader Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Hideout Planet"
+  },
+  {
+    "Id": 85,
+    "Name": "Cyclops Morty",
+    "Status": "Alive",
+    "Species": "Humanoid",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 95,
+    "Name": "Dipper and Mabel Mortys",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "unknown",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 113,
+    "Name": "Eric Stoltz Mask Morty",
+    "Status": "unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "Eric Stoltz Mask Earth",
+    "Location": "Earth (Replacement Dimension)"
+  },
+  {
+    "Id": 118,
+    "Name": "Evil Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 123,
+    "Name": "Fat Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
+  },
+  {
+    "Id": 143,
+    "Name": "Glasses Morty",
+    "Status": "Alive",
+    "Species": "Human",
+    "Gender": "Male",
+    "Origin": "unknown",
+    "Location": "Citadel of Ricks"
   }
 ]

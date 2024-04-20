@@ -24,7 +24,7 @@ curl --version
 |  ```-i / --id ```   | Id o ids de los personajes a buscar. | 
 | ```-n / --nombre```  |Nombre o nombres de los personajes a buscar. |
 
-### Ejemplo
+### Ejemplo de uso
 ---
 ```
 $ ./rickandmorty.sh --id “1,2” --nombre “rick, morty”
